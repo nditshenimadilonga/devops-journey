@@ -31,6 +31,8 @@ Turn a dedicated PC into a virtualization host so I can build and break Linux se
 
 ![Proxmox dashboard](screenshots/proxmox-dashboard.png)
 *Proxmox web UI showing the node.*
+<img width="1922" height="827" alt="{0FB30CBA-42AC-4BD4-9742-0F221513D5B2}" src="https://github.com/user-attachments/assets/e3a2a189-22eb-4ccf-9b1a-a7ee7330b629" />
+
 
 ## What I learned
 
