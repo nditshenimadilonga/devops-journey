@@ -29,7 +29,7 @@ In the web UI: **pve → local (pve) → ISO Images → Download from URL**.
 | Network | Bridge `vmbr0`, VirtIO model |
 | Confirm | Start after created |
 
-![Create VM confirm](screenshots/create-vm-confirm.png)
+
 
 ## Step 3: Install Ubuntu Server (Proxmox console)
 
@@ -54,6 +54,8 @@ The installer is text-based: arrow keys, Tab, Space, Enter.
 - Volume group `ubuntu-vg` ~38 GB, leaving ~19 GB free for LVM practice later
 
 ![Storage summary](screenshots/storage-summary.png)
+<img width="1899" height="817" alt="{E78164A9-5F9D-4DB1-8AAD-ECA9012C80B9}" src="https://github.com/user-attachments/assets/317be03f-9967-4229-bccb-e5fa6398acfb" />
+
 
 ## Step 4: First boot
 
@@ -87,6 +89,8 @@ ip -br a
 Confirmed the user, hostname `ubuntu-01`, Ubuntu 24.04.4 LTS, and the IP address.
 
 ![SSH verify](screenshots/ssh-verify.png)
+<img width="1507" height="812" alt="image" src="https://github.com/user-attachments/assets/5dc14198-59e4-4eb9-acc4-331e8f1e6f05" />
+
 
 ## Step 7: Update the system
 
