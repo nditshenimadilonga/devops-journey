@@ -1,7 +1,7 @@
 # 1.1 Installing Proxmox
 
 **Started:** 10 October 2026
-**Status:** In progress
+**Status:** Done
 
 ## Goal
 
